@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/-React-%232C3A42?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-%232C3A42?style=flat-square&logo=firebase)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-%232C3A42?style=flat-square&logo=mongodb)
+![Node](https://img.shields.io/badge/-Node-%232C3A42?style=flat-square&logo=node)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
