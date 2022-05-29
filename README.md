@@ -3,7 +3,6 @@
 [![Facebook](https://img.shields.io/badge/-@NusratPriya.P18-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/NusratPriya.P18)
 [![Linkedin](https://img.shields.io/badge/-@priya-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nusrat-priya-4312ba240)
 [![Instagram](https://img.shields.io/badge/-@nusratjahanpriya8-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/nusratjahanpriya8/)
-<!-- [![Twitter](https://img.shields.io/badge/-@priya-nusrat18-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/priya-nusrat18) -->
 [![Github](https://img.shields.io/badge/-@priya-nusrat18?style=flat-square&logo=github)](https://github.com/priya-nusrat18)
 [![Codepen](https://img.shields.io/badge/-@priya-nusrat18?style=flat-square&logo=codepen)](https://codepen.io/priya-nusrat18)
 
@@ -26,5 +25,6 @@
 <!--
 ## Stackoverflow
 [![priya-nusrat18 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9135470&theme=dark)](https://stackoverflow.com/users/9135470/priya-nusrat18) -->
+<!-- [![Twitter](https://img.shields.io/badge/-@priya-nusrat18-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/priya-nusrat18) -->
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=priya-nusrat18)
