@@ -1,10 +1,10 @@
 # 𝗛𝗲𝗹𝗹o 𝗜'𝗺 Nusrat Jahan Priya ( _React developer_ )
 
 [![Facebook](https://img.shields.io/badge/-@NusratPriya.P18-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/NusratPriya.P18)
-[![Linkedin](https://img.shields.io/badge/-@nusrat-priya-4312ba240-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nusrat-priya-4312ba240/)
+[![Linkedin](https://img.shields.io/badge/-@nusrat-priya-4312ba240-?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nusrat-priya-4312ba240/)
 [![Instagram](https://img.shields.io/badge/-@nusratjahanpriya8-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/nusratjahanpriya8/)
 <!-- [![Twitter](https://img.shields.io/badge/-@priya-nusrat18-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/priya-nusrat18) -->
-[![Github](https://img.shields.io/badge/-@priya-nusrat18-%23181717?style=flat-square&logo=github)](https://github.com/priya-nusrat18)
+[![Github](https://img.shields.io/badge/-@priya-nusrat18-?style=flat-square&logo=github)](https://github.com/priya-nusrat18)
 [![Codepen](https://img.shields.io/badge/-@priya-nusrat18?style=flat-square&logo=codepen)](https://codepen.io/priya-nusrat18)
 
 [![priya-nusrat18's github stats](https://github-readme-stats.vercel.app/api?username=priya-nusrat18&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
