@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹o 𝗜'𝗺 Nusrat Jahan Priya ( _React developer_ )
 
 [![Facebook](https://img.shields.io/badge/-@NusratPriya.P18-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/NusratPriya.P18)
-[![Linkedin](https://img.shields.io/badge/-@priya-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nusrat-priya-4312ba240)
+[![Linkedin](https://img.shields.io/badge/-@priya-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nusrat-priya)
 [![Instagram](https://img.shields.io/badge/-@nusratjahanpriya8-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/nusratjahanpriya8/)
 [![Github](https://img.shields.io/badge/-@priya-nusrat18?style=flat-square&logo=github)](https://github.com/priya-nusrat18)
 [![Codepen](https://img.shields.io/badge/-@priya-nusrat18?style=flat-square&logo=codepen)](https://codepen.io/priya-nusrat18)
