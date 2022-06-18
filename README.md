@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹o 𝗜'𝗺 Nusrat Jahan Priya ( _React developer_ )
+# 𝗛𝗲𝗹𝗹o 𝗜'𝗺 Nusrat Jahan Priya ( FULL STACK developer-MERN)
 
 [![Facebook](https://img.shields.io/badge/-@NusratPriya.P18-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/NusratPriya.P18)
 [![Linkedin](https://img.shields.io/badge/-@priya-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nusrat-priya)
